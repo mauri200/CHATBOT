@@ -1,0 +1,8 @@
+streamlit
+pandas
+openai
+langchain
+speechrecognition
+matplotlib
+sqlalchemy
+pandas-ai
